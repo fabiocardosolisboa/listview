@@ -1,0 +1,10 @@
+C:\Users\fabio\Desktop\TestandoFotos\TestandoFotos\obj\Debug\TestandoFotos.csprojAssemblyReference.cache
+C:\Users\fabio\Desktop\TestandoFotos\TestandoFotos\obj\Debug\TestandoFotos.Form1.resources
+C:\Users\fabio\Desktop\TestandoFotos\TestandoFotos\obj\Debug\TestandoFotos.Properties.Resources.resources
+C:\Users\fabio\Desktop\TestandoFotos\TestandoFotos\obj\Debug\TestandoFotos.csproj.GenerateResource.cache
+C:\Users\fabio\Desktop\TestandoFotos\TestandoFotos\obj\Debug\TestandoFotos.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\TestandoFotos\TestandoFotos\bin\Debug\TestandoFotos.exe.config
+C:\Users\fabio\Desktop\TestandoFotos\TestandoFotos\bin\Debug\TestandoFotos.exe
+C:\Users\fabio\Desktop\TestandoFotos\TestandoFotos\bin\Debug\TestandoFotos.pdb
+C:\Users\fabio\Desktop\TestandoFotos\TestandoFotos\obj\Debug\TestandoFotos.exe
+C:\Users\fabio\Desktop\TestandoFotos\TestandoFotos\obj\Debug\TestandoFotos.pdb
